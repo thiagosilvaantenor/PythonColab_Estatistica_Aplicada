@@ -11,3 +11,18 @@
 
 - Para aulas: 2, 5 e 6: 
   [enem_2019_tratado.csv](https://drive.google.com/drive/folders/1QNu5C7-UocAZ1Zh6A62qazOV_eXJbkYG?usp=drive_link)
+
+# Status do projeto
+🚧Em andamento 🚧
+- Falta criar o readme das aulas
+
+## Autor
+
+<div align="center">
+<a href="https://www.linkedin.com/in/thiago-antenor/">
+<img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/99970279?v=4" width="100px;" alt="foto do autor"/>
+ <br />
+ <sub><b>Thiago Silva Antenor</b></sub></a> <a href="https://www.linkedin.com/in/thiago-antenor/" title="Linkedin"> 🧑🏾‍💻</a>
+
+
+Feito por Thiago Silva Antenor 👨🏾‍💻 Entre em contato!
